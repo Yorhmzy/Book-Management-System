@@ -1,4 +1,4 @@
-# ![Laravel Example App]
+# [Laravel Example App]
 A simple book management system (REST API, Laravel, VueJs)
 
 ----------
